@@ -1,0 +1,15 @@
+@charset "UTF-8";
+body{
+    background-color: rgb(83, 83, 212);
+}
+h1{
+    color: #010e1a;
+    text-align: center;
+}
+h2{
+    color: #550e7e;
+    text-decoration: underline;
+}
+p{
+    color: #bdcecd;
+}

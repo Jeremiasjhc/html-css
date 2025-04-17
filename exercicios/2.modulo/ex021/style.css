@@ -1,0 +1,21 @@
+@charset "UTF-8";
+body{
+    background-image:linear-gradient(to right, #c57c4b, #7EA1C4);
+color: #000000;
+font-weight:normal;
+font-family: Arial, Helvetica, sans-serif;
+}
+h1#principal{
+    color: #833028;
+    text-align: center;
+}
+h1.jeremias{
+color: #7EA1C4;
+}
+h1{
+    color: #0E38F0;
+    text-indent: 1%;
+}
+h2{
+    text-decoration: underline;
+}
