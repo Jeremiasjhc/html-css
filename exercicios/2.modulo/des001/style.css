@@ -45,6 +45,7 @@ header>p{
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.651);
 }
 nav{
+    font-family: Arial, Helvetica, sans-serif;
     background-color: var(--col6);
     color: white;
     margin: var(--margem);
